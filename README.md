@@ -1,5 +1,5 @@
-DEPRECIATED
-===========
+DEPRECATED
+==========
 
 Dokku docker options (a more useful dokku plugin, which will also handles persistent storage) was merged into dokku at https://github.com/progrium/dokku/commit/df8f4fb8824550518b07c87ac56aba568bd81295
 
